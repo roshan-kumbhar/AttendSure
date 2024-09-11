@@ -43,7 +43,7 @@ class MyApp extends StatelessWidget {
         Myroutes.signupRoute: (context) => SignUpPage(),
         Myroutes.backToLoginRoute: (context) => BacktologinPage(),
         Myroutes.stdDetailsRoute: (context) =>
-            StudentDetails(erpNo: '220600114'),
+            StudentDetails(erpNo: 'ur erp no'),
         // Myroutes.idRoute:(context)=>IdPage(studentDetails: )
       },
     );
