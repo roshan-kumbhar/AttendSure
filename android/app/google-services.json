@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250970777186",
+    "project_id": "fir-testing-ac295",
+    "storage_bucket": "fir-testing-ac295.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250970777186:android:54026e554bf6c0f38b533b",
+        "android_client_info": {
+          "package_name": "com.example.attendsure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7GZ8QImg0FUym9cvnW8qVjBAjYM3nhHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
